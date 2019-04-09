@@ -1,0 +1,29 @@
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.dll
+E:\study\c#\OperateCamera\bin\Debug\OperateCamera.exe
+E:\study\c#\OperateCamera\bin\Debug\OperateCamera.pdb
+E:\study\c#\OperateCamera\bin\Debug\AForge.Controls.dll
+E:\study\c#\OperateCamera\bin\Debug\AForge.dll
+E:\study\c#\OperateCamera\bin\Debug\AForge.Imaging.dll
+E:\study\c#\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+E:\study\c#\OperateCamera\bin\Debug\AForge.Video.dll
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.csprojAssemblyReference.cache
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.cache
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.csproj.CoreCompileInputs.cache
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.csproj.CopyComplete
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.exe
+E:\study\c#\OperateCamera\obj\x86\Debug\OperateCamera.pdb
